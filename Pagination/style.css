@@ -1,0 +1,37 @@
+.pagination a {
+    color: rgb(138, 138, 216);
+    float: left;
+    padding: 8px 16px;
+    text-decoration: none;
+    border-top: 50%;
+  }
+  .pagination{
+      background-color: white;
+      margin-top: 18%;
+      margin-left: 25%;
+      margin-right: 25%;
+      width: 50%;
+  }
+  #pagination1{
+  
+      background-color: rgb(26, 24, 24);
+  }
+  
+  .pagination a:hover{
+    background-color: rgb(32, 119, 206);
+    color: white;
+  }
+  #table{
+      border-collapse: collapse;
+      width: 25%;
+      margin-left: 2%;
+  }
+  table, th{
+      border: 1px solid rgb(177, 164, 164);
+  }
+  #change{
+      color: rgb(22, 22, 24);
+      margin-left: 2%;
+      margin-top: 3%;
+  }
+  
